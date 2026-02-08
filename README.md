@@ -1,7 +1,7 @@
 I am Arun Prakash, a DevOps / SRE professional focused on monitoring, automation, and system reliability.
-I work with ScienceLogic for infrastructure and application monitoring.
+I work with ScienceLogic for infrastructure monitoring.
 I automate operational workflows using Ansible and Python.
-I have experience with CI/CD pipelines using Jenkins.
+I have experience with CI/CD pipelines using Jenkins and docker.
 I work in Linux environments, supporting stable and scalable systems.
 - 
 
