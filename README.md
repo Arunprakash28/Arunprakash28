@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Arunprakash28
-- I love programming to provide value.
-- 👀 I’m interested in Development softwa...
-- 🌱 I’m currently learning phython,react and cloud (Eat,Sleep,Learn ) ...
-- 💞️ I’m looking to collaborate on challenging projects...
-- 📫 How to reach me prakasharun832@gmail.com...
+I am Arun Prakash, a DevOps / SRE professional focused on monitoring, automation, and system reliability.
+I work with ScienceLogic for infrastructure and application monitoring.
+I automate operational workflows using Ansible and Python.
+I have experience with CI/CD pipelines using Jenkins.
+I work in Linux environments, supporting stable and scalable systems.
 - 
 
 <!---
